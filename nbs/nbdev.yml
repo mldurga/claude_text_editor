@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "claude_text_editor"
+  site-url: "https://mldurga.github.io/claude_text_editor"
+  description: "Text Editor Features of Claude"
+  repo-branch: main
+  repo-url: "https://github.com/mldurga/claude_text_editor"
